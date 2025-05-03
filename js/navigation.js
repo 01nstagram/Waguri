@@ -58,18 +58,18 @@ const titleArray = [
 const paragraphArray = [
   "Support in moderation is not lacking at Waguri. Thanks to a sophisticated moderation system, you can sit back relax and punish rule breakers with a single command. Included are: mute, kick, ban and automatic moderative actions.",
   "With our built-in Music Player you can play Music from Websites such as Spotify, YouTube, Vimeo, Bandcamp, SoundCloud and even custom MP3 Files!",
-  "By using different APIs lalaio1 has the ability to give your Random Facts, Dog Images and Cat Images! We even have Commands such as slap and kiss!",
+  "By using different APIs Waguri has the ability to give your Random Facts, Dog Images and Cat Images! We even have Commands such as slap and kiss!",
   "Waguri offers varied audit logging in a clearer, more clearly structured style. All possible changes to the server are displayed (invite logging, role changes, channel switching and many more).",
   "The bot offers a constructed level system. Right now we're referring to this as chat leveling. Rank queries and a leaderboard are also included and work perfectly.",
   "The bot will offer a newly built Configuration System for our users.",
 ];
 const ctaArray = [
-  "Authorize with lalaio1",
-  "Turn it Up with lalaio1",
-  "Command with lalaio1",
-  "Analyze the Data with lalaio1",
-  "Level Up with lalaio1",
-  "Even the Odds with lalaio1",
+  "Authorize with Waguri",
+  "Turn it Up with Waguri",
+  "Command with Waguri",
+  "Analyze the Data with Waguri",
+  "Level Up with Waguri",
+  "Even the Odds with Waguri",
 ];
 const featureCount = document.querySelector(".count");
 const featureSummary = document.querySelector(".summary");
