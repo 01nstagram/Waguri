@@ -2,7 +2,7 @@ const fadeElementPageTrans = document.querySelector(".transition-fade");
 
 document.addEventListener("DOMContentLoaded", function () {
   console.log(
-    "\n\nWelcome to lalaio1! Thanks for checking out our code and being interested in what our Discord Bot can do for you! If you are interested in code and want to know how our bot works than you can view lalaio1 Repositories at: \n\nhttps://github.com/lalaio1-Applications\n\n"
+    "\n\nWelcome to Waguri! Thanks for checking out our code and being interested in what our Discord Bot can do for you! If you are interested in code and want to know how our bot works than you can view 01nstagram Repositories at: \n\nhttps://github.com/01nstagram-Applications\n\n"
   );
   setTimeout(() => {
     fadeElementPageTrans.classList.add("transition-inactive");
@@ -56,10 +56,10 @@ const titleArray = [
   "Configuration",
 ];
 const paragraphArray = [
-  "Support in moderation is not lacking at lalaio1. Thanks to a sophisticated moderation system, you can sit back relax and punish rule breakers with a single command. Included are: mute, kick, ban and automatic moderative actions.",
+  "Support in moderation is not lacking at Waguri. Thanks to a sophisticated moderation system, you can sit back relax and punish rule breakers with a single command. Included are: mute, kick, ban and automatic moderative actions.",
   "With our built-in Music Player you can play Music from Websites such as Spotify, YouTube, Vimeo, Bandcamp, SoundCloud and even custom MP3 Files!",
   "By using different APIs lalaio1 has the ability to give your Random Facts, Dog Images and Cat Images! We even have Commands such as slap and kiss!",
-  "lalaio1 offers varied audit logging in a clearer, more clearly structured style. All possible changes to the server are displayed (invite logging, role changes, channel switching and many more).",
+  "Waguri offers varied audit logging in a clearer, more clearly structured style. All possible changes to the server are displayed (invite logging, role changes, channel switching and many more).",
   "The bot offers a constructed level system. Right now we're referring to this as chat leveling. Rank queries and a leaderboard are also included and work perfectly.",
   "The bot will offer a newly built Configuration System for our users.",
 ];
